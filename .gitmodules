@@ -1,3 +1,6 @@
 [submodule "iPhone"]
 	path = iPhone
 	url = ../../hdzup/hdzup_iphone.git
+[submodule "Api"]
+	path = Api
+	url = ../../hdzup/hdzup_api.git
