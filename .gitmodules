@@ -1,0 +1,3 @@
+[submodule "iPhone"]
+	path = iPhone
+	url = ../../hdzup/hdzup_iphone.git
